@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Xinlun Cheng</title>
-    <link>https://chengxinlun.github.io/post/</link>
-      <atom:link href="https://chengxinlun.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <title>Posts | Jianjian Gao</title>
+    <link>https://jianjiangao.github.io/post/</link>
+      <atom:link href="https://jianjiangao.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://chengxinlun.github.io/img/icon-192.png</url>
+      <url>https://jianjiangao.github.io/img/icon-192.png</url>
       <title>Posts</title>
-      <link>https://chengxinlun.github.io/post/</link>
+      <link>https://jianjiangao.github.io/post/</link>
     </image>
     
   </channel>
