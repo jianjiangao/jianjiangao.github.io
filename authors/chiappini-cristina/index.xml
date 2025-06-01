@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chiappini, Cristina | Xinlun Cheng</title>
+    <link>https://chengxinlun.github.io/authors/chiappini-cristina/</link>
+      <atom:link href="https://chengxinlun.github.io/authors/chiappini-cristina/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chiappini, Cristina</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Jan 2021 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chengxinlun.github.io/img/icon-192.png</url>
+      <title>Chiappini, Cristina</title>
+      <link>https://chengxinlun.github.io/authors/chiappini-cristina/</link>
+    </image>
+    
+    <item>
+      <title>Galactic Warp Through the Lenses of Gaia Data Release 2 and the APOGEE Survey</title>
+      <link>https://chengxinlun.github.io/talk/jan2021_aas237/</link>
+      <pubDate>Sun, 10 Jan 2021 13:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/talk/jan2021_aas237/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PRESS RELEASE: Galactic Warp Through the Lenses of Gaia Data Release 2 and the APOGEE Survey</title>
+      <link>https://chengxinlun.github.io/talk/jan2021_aas237_press/</link>
+      <pubDate>Sun, 10 Jan 2021 13:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/talk/jan2021_aas237_press/</guid>
+      <description>&lt;p&gt;A 3D visualization of the warp of the Milky Way galaxy has been made for the press release. Click on the &lt;code&gt;project&lt;/code&gt; button next to the &lt;code&gt;PDF&lt;/code&gt; button to go to the animations.&lt;/p&gt;
+&lt;p&gt;Since the press conference on Jan 15 2021, the story has been picked up by many media outlets across the globe, including but not limited to&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> Exploring the Galactic Warp through Asymmetries in the Kinematics of the Galactic Disk</title>
+      <link>https://chengxinlun.github.io/publication/2020apj...905...49c/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/publication/2020apj...905...49c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Galactic Warp Through Asymmetries in the Kinematics of the Galactic Disk</title>
+      <link>https://chengxinlun.github.io/talk/oct2020_ias/</link>
+      <pubDate>Mon, 26 Oct 2020 13:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/talk/oct2020_ias/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

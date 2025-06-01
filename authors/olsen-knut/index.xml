@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Olsen, Knut | Xinlun Cheng</title>
+    <link>https://chengxinlun.github.io/authors/olsen-knut/</link>
+      <atom:link href="https://chengxinlun.github.io/authors/olsen-knut/index.xml" rel="self" type="application/rss+xml" />
+    <description>Olsen, Knut</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chengxinlun.github.io/img/icon-192.png</url>
+      <title>Olsen, Knut</title>
+      <link>https://chengxinlun.github.io/authors/olsen-knut/</link>
+    </image>
+    
+    <item>
+      <title> Kinematical Analysis of Substructure in the Southern Periphery of the Large Magellanic Cloud </title>
+      <link>https://chengxinlun.github.io/publication/2022apj...928...95c/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/publication/2022apj...928...95c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinematical Analysis of Substructure in the Southern Periphery of the Large Magellanic Cloud</title>
+      <link>https://chengxinlun.github.io/talk/oct2021_apogeesciencecall/</link>
+      <pubDate>Wed, 13 Oct 2021 11:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/talk/oct2021_apogeesciencecall/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
