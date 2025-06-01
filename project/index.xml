@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Xinlun Cheng</title>
+    <link>https://chengxinlun.github.io/project/</link>
+      <atom:link href="https://chengxinlun.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 12:33:35 -0500</lastBuildDate>
+    <image>
+      <url>https://chengxinlun.github.io/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://chengxinlun.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Visualization of Galactic Warp Model</title>
+      <link>https://chengxinlun.github.io/project/galwarp_visualization/</link>
+      <pubDate>Thu, 01 Oct 2020 12:33:35 -0500</pubDate>
+      <guid>https://chengxinlun.github.io/project/galwarp_visualization/</guid>
+      <description>&lt;p&gt;Animation of Galactic warp model presented in our paper.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;galactic_warp_textured_rf.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+From the perspective of an observer at a fixed point in space.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;galactic_warp_textured_solar.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+From the perspective of an observer following the Sun.&lt;/p&gt;
+&lt;p&gt;Animation made with blender. Texture of the Galaxy from NASA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stellarium for Android</title>
+      <link>https://chengxinlun.github.io/project/stellarium_mobile/</link>
+      <pubDate>Wed, 08 Jan 2020 12:33:35 -0500</pubDate>
+      <guid>https://chengxinlun.github.io/project/stellarium_mobile/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
