@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Xinlun Cheng</title>
+    <link>https://chengxinlun.github.io/publication_types/1/</link>
+      <atom:link href="https://chengxinlun.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chengxinlun.github.io/img/icon-192.png</url>
+      <title>1</title>
+      <link>https://chengxinlun.github.io/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Democratizing Housing Affordability Data: Open Data and Data Journalism in Charlottesville, VA</title>
+      <link>https://chengxinlun.github.io/publication/2022sieds/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/publication/2022sieds/</guid>
+      <description>&lt;p&gt;The paper will be available through IEEE in July 2022.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

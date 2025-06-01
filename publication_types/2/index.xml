@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Xinlun Cheng</title>
+    <link>https://chengxinlun.github.io/publication_types/2/</link>
+      <atom:link href="https://chengxinlun.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chengxinlun.github.io/img/icon-192.png</url>
+      <title>2</title>
+      <link>https://chengxinlun.github.io/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title> Kinematical Analysis of Substructure in the Southern Periphery of the Large Magellanic Cloud </title>
+      <link>https://chengxinlun.github.io/publication/2022apj...928...95c/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/publication/2022apj...928...95c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Exploring the Galactic Warp through Asymmetries in the Kinematics of the Galactic Disk</title>
+      <link>https://chengxinlun.github.io/publication/2020apj...905...49c/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/publication/2020apj...905...49c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Stellar Velocity Distribution Function in the Milky Way Galaxy</title>
+      <link>https://chengxinlun.github.io/publication/2020aj....160...43a/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/publication/2020aj....160...43a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search for strong galaxy-galaxy lensing in SDSS-III BOSS</title>
+      <link>https://chengxinlun.github.io/publication/2020raa....20....2c/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/publication/2020raa....20....2c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ripple Patterns in In-plane Velocities of OB Stars from LAMOST and Gaia</title>
+      <link>https://chengxinlun.github.io/publication/2019apj...872l...1c/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/publication/2019apj...872l...1c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
