@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xinlun Cheng</title>
+    <link>https://chengxinlun.github.io/</link>
+      <atom:link href="https://chengxinlun.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xinlun Cheng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 Apr 2022 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chengxinlun.github.io/img/icon-192.png</url>
+      <title>Xinlun Cheng</title>
+      <link>https://chengxinlun.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://chengxinlun.github.io/talk/</link>
+      <pubDate>Tue, 26 Apr 2022 13:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://chengxinlun.github.io/publication/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://chengxinlun.github.io/project/</link>
+      <pubDate>Thu, 01 Oct 2020 12:33:35 -0500</pubDate>
+      <guid>https://chengxinlun.github.io/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://chengxinlun.github.io/projects/</link>
+      <pubDate>Wed, 08 Jan 2020 14:40:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Outreach</title>
+      <link>https://chengxinlun.github.io/outreach/</link>
+      <pubDate>Wed, 08 Jan 2020 11:31:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/outreach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://chengxinlun.github.io/research/</link>
+      <pubDate>Wed, 08 Jan 2020 11:31:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://chengxinlun.github.io/teaching/</link>
+      <pubDate>Wed, 08 Jan 2020 11:31:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://chengxinlun.github.io/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chengxinlun.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
